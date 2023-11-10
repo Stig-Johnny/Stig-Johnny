@@ -4,7 +4,7 @@
 
 <div class="personopplysninger row">
 
-<div class="col-sm-2 heading">
+<div class="col-sm-2 heading" style="color:red">
     <h1><span class="c">C</span><span class="v">V</span></h1>
 </div> 
 
