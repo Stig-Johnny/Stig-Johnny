@@ -33,9 +33,14 @@
 
                 <div class="col-sm-7 info"><div class="text-right info-left">
                 <div class="items"><span>Name</span></div><div class="items">
-                <span>Born</span></div><div class="items"><span>Address</span></div><div class="items"><span>E-mail</span></div><div class="items"><span>Mobile</span></div>
-                </div> <div class="img-outer"><img src="me-400x400.jpeg" alt=""></div> <div class="text-left info-right">
-                <div class="items"><span>Stig-Johnny Stoebakk</span></div><div class="items"><span>31/03/1983</span></div>
+                <span>Born</span></div><div class="items"><span>Address</span></div>
+                <div class="items"><span>E-mail</span></div><div class="items"><span>Mobile</span></div>
+                </div> 
+                <div class="img-outer">
+                <img src="https://github.com/Stig-Johnny/Stig-Johnny/blob/main/me-400x400.jpeg" alt=""></div> 
+                <div class="text-left info-right">
+                <div class="items"><span>Stig-Johnny Stoebakk</span></div><div class="items"><span>31/03/1983</span>
+                </div>
                 <div class="items"><span>Bjoerndalsjordet 59, 1270 Oslo, Norway</span></div><div class="items"><span>post@stigjohnny.no</span></div>
                 <div class="items"><span>+47 966 29 919</span></div></div></div> <div class="col-sm-3 intro"><blockquote>
                 <p>Developer and Project Manager in various Web based projects both front-end and back-end. I like keeping up to date with technology and finding solutions than can make my day (and others) more efficient.</p></blockquote></div>
