@@ -4,6 +4,4 @@
     <img src="example.svg" width="100%" alt="css-in-readme">
 </div>
 
-</article-body>
-</article>
 
