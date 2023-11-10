@@ -408,7 +408,7 @@
                         </div>
                         <div class="praksis data-striped">
                             <h2>Experience</h2>
-                            <div class="item row"><span class="col-sm-3 mt-2"><span>Oct 2023 – present</span></span> <span class="col-sm-4 mt-2">Invotek AS</span> 
+                            <div class="item row"><span class="col-sm-3 mt-2"><span>Oct 2023 – present</span></span> <span class="col-sm-4 mt-2"><a href="https://www.invotek.no/" target="_blank">Invotek AS</a></span> 
                             <span class="col-sm-5 mt-2">CEO and Senior consultant</span>
                             </div>
                             <div class="item row"><span class="col-sm-3 mt-2"><span>Aug 2022 – Sep 2023</span></span> <span class="col-sm-4 mt-2">Mylder AS</span> 
