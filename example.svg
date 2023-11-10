@@ -25,23 +25,34 @@
                 <article-body>
                 <div id="app-cv" class="container">
 
-                <div class="personopplysninger row">
+                    <div class="personopplysninger row">
 
-                <div class="col-sm-2 heading">
-                    <h1><span class="c">C</span><span class="v">V</span></h1>
-                </div> 
+                        <div class="col-sm-2 heading">
+                            <h1><span class="c">C</span><span class="v">V</span></h1>
+                        </div> 
 
-                <div class="col-sm-7 info"><div class="text-right info-left">
-                <div class="items"><span>Name</span></div><div class="items">
-                <span>Born</span></div><div class="items"><span>Address</span></div>
-                <div class="items"><span>E-mail</span></div><div class="items"><span>Mobile</span></div>
-                </div> 
-                <div class="img-outer">
-                
-                </div> 
-                <div class="text-left info-right">
-                <div class="items"><span>Stig-Johnny Stoebakk</span></div><div class="items"><span>31/03/1983</span>
-                </div>
+                        <div class="col-sm-7 info">
+
+                            <div class="text-right info-left">
+
+                                <div class="items"><span>Name</span></div>
+                        
+                                <div class="items"><span>Born</span></div>
+                        
+                                <div class="items"><span>Address</span></div>
+                                
+                                <div class="items"><span>E-mail</span></div>
+                                
+                                <div class="items"><span>Mobile</span></div>
+                            </div> 
+
+                        <div class="img-outer">
+                            image goes here
+                        </div> 
+
+                        <div class="text-left info-right">
+                            <div class="items"><span>Stig-Johnny Stoebakk</span></div>
+                            <div class="items"><span>31/03/1983</span></div>
                 <div class="items"><span>Bjoerndalsjordet 59, 1270 Oslo, Norway</span></div>
                 <div class="items"><span>post@stigjohnny.no</span></div>
                 <div class="items"><span>+47 966 29 919</span></div></div></div> <div class="col-sm-3 intro">
@@ -50,9 +61,14 @@
                 </blockquote></div>
                 </div> 
                 
-                <div class="utdannelse data-striped"><h2>Education</h2> 
-                <div class="item row"><span class="col-sm-3 mt-2"><span>Mar 2006 – Nov 2008</span></span> <span class="col-sm-4 mt-2">Deakin University (Australia)</span> 
-                <span class="col-sm-5 mt-2">Bachelor Of Information Technology <br>(with a major in Computer Science And Software Development) (3 years)</span></div>
+                <div class="utdannelse data-striped">
+                <h2>Education</h2> 
+                <div class="item row">
+                <span class="col-sm-3 mt-2"><span>Mar 2006 – Nov 2008</span></span> 
+                <span class="col-sm-4 mt-2">Deakin University (Australia)</span> 
+                <span class="col-sm-5 mt-2">Bachelor Of Information Technology <br>(with a major in Computer Science And Software Development) (3 years)</span>
+                </div>
+
                 <div class="item row"><span class="col-sm-3 mt-2"><span>Aug 2004 – Jun 2005</span></span> <span class="col-sm-4 mt-2">Private candidate</span> 
                 <span class="col-sm-5 mt-2">Part-time, Upper secondary school (VG2 / VG3)</span></div>
                 <div class="item row"><span class="col-sm-3 mt-2"><span>Aug 2002 – Mar 2004</span></span> <span class="col-sm-4 mt-2">Noroff</span> 
