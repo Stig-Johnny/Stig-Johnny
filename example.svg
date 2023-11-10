@@ -53,21 +53,28 @@
                         <div class="text-left info-right">
                             <div class="items"><span>Stig-Johnny Stoebakk</span></div>
                             <div class="items"><span>31/03/1983</span></div>
-                <div class="items"><span>Bjoerndalsjordet 59, 1270 Oslo, Norway</span></div>
-                <div class="items"><span>post@stigjohnny.no</span></div>
-                <div class="items"><span>+47 966 29 919</span></div></div></div> <div class="col-sm-3 intro">
-                <blockquote>
-                <p>Developer and Project Manager in various Web based projects both front-end and back-end. I like keeping up to date with technology and finding solutions than can make my day (and others) more efficient.</p>
-                </blockquote></div>
+                            <div class="items"><span>Bjoerndalsjordet 59, 1270 Oslo, Norway</span></div>
+                            <div class="items"><span>post@stigjohnny.no</span></div>
+                            <div class="items"><span>+47 966 29 919</span></div>
+                        </div>
+                    </div> 
+
+                    <div class="col-sm-3 intro">
+                        <blockquote>
+                        <p>Developer and Project Manager in various Web based projects both front-end and back-end. I like keeping up to date with technology and finding solutions than can make my day (and others) more efficient.</p>
+                        </blockquote>
+                    </div>
                 </div> 
                 
                 <div class="utdannelse data-striped">
-                <h2>Education</h2> 
-                <div class="item row">
-                <span class="col-sm-3 mt-2"><span>Mar 2006 – Nov 2008</span></span> 
-                <span class="col-sm-4 mt-2">Deakin University (Australia)</span> 
-                <span class="col-sm-5 mt-2">Bachelor Of Information Technology <br>(with a major in Computer Science And Software Development) (3 years)</span>
-                </div>
+
+                    <h2>Education</h2> 
+
+                    <div class="item row">
+                        <span class="col-sm-3 mt-2"><span>Mar 2006 – Nov 2008</span></span> 
+                        <span class="col-sm-4 mt-2">Deakin University (Australia)</span> 
+                        <span class="col-sm-5 mt-2">Bachelor Of Information Technology <br>(with a major in Computer Science And Software Development) (3 years)</span>
+                    </div>
 
                 <div class="item row"><span class="col-sm-3 mt-2"><span>Aug 2004 – Jun 2005</span></span> <span class="col-sm-4 mt-2">Private candidate</span> 
                 <span class="col-sm-5 mt-2">Part-time, Upper secondary school (VG2 / VG3)</span></div>
